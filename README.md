@@ -51,7 +51,7 @@ https://www.kaggle.com/code/studywarriors/brats-image-segmentation-cbam-transfor
 
 ## ▶️ Methodology 
 
-![image](https://github.com/user-attachments/assets/a26243e5-a926-4f16-bd10-b888d420d6ed)
+![image](https://github.com/user-attachments/assets/fb06ab28-1992-4764-b0da-924944f0325a)
 
 ## 📊 Results & Comparisons
 
