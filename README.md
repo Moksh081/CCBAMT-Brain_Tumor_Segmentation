@@ -1,20 +1,15 @@
 # CCBAMT: Attention‑Guided CNN‑Transformer Hybrid for Brain Tumor Segmentation
 
 A deep learning framework that fuses 2D CNNs, Convolutional Block Attention Modules (CBAM) and Transformer encoders to accurately detect and segment brain tumors on MRI scans (BraTS 2020).
+• The BraTS 2020 dataset is utilized for accurate, efficient, and generalizable
+ brain tumor detection.
+ • Proposed hybrid CCBAMT approach for improving brain tumor detection ac
+curacy and resilience.
+ • Enhances generalization, captures long-range features, and improves segmen
+tation.
+ • Proposed CCBAMT achieves 99.1% accuracy and 0.792 Dice coefficient score.
 
----
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Repository Structure](#repository-structure)  
-- [Dataset](#dataset)
-- [Kaggle Notebook](#kaggle-notebook)  
-- [Methodology](#methodology)    
-- [Results & Comparisons](#results--comparisons)  
-- [Visualizations](#visualizations)    
-
----
 
 ## 🧠 Project Overview
 
