@@ -25,14 +25,16 @@ This hybrid yields state‑of‑the‑art performance on the BraTS 2020 challe
 
 ## 📂 Repository Structure
 
-├── BRAIN_TUMOR_IMAGE_SEGMENTATION.ipynb # End‑to‑end notebook
-├── model.py # Model definition and training script
-├── methodology.png # Graphical overview of CCBAMT architecture
-├── graphical_visualization.png # Training & validation curves
-├── mldlbaseline_comparison.png # Baseline ML/DL performance comparison
-├── layer_summary.pdf # Detailed layer‑by‑layer summary
-├── README.md # ← You are here
-└── requirements.txt # Python dependencies
+.
+├── BRAIN_TUMOR_IMAGE_SEGMENTATION.ipynb   # End‑to‑end notebook
+├── model.py                               # Model definition & training script
+├── methodology.png                        # Graphical overview of CCBAMT architecture
+├── graphical_visualization.png            # Training & validation curves
+├── mldlbaseline_comparison.png            # Baseline ML/DL performance comparison
+├── layer_summary.pdf                      # Detailed layer‑by‑layer summary
+├── README.md                              # ← You are here
+└── requirements.txt                       # Python dependencies
+
 ---
 
 ## 📦 Dataset
