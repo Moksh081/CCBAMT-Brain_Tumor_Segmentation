@@ -24,29 +24,29 @@ This hybrid yields state‑of‑the‑art performance on the BraTS 2020 challe
 ---
 
 ## 📂 Repository Structure
-BRAIN_TUMOR_IMAGE_SEGMENTATION.ipynb
-End‑to‑end Jupyter notebook with data loading, preprocessing, training, and evaluation.
+ •BRAIN_TUMOR_IMAGE_SEGMENTATION.ipynb
+  End‑to‑end Jupyter notebook with data loading, preprocessing, training, and evaluation.
 
-model.py
-Python script defining the CCBAMT model and training/inference routines.
+ •model.py
+  Python script defining the CCBAMT model and training/inference routines.
 
-methodology.png
-Graphical overview of the CCBAMT architecture (CNN + CBAM + Transformer).
+ •methodology.png
+  Graphical overview of the CCBAMT architecture (CNN + CBAM + Transformer).
 
-graphical_visualization.png
-Plots of training & validation accuracy and loss curves.
+ •graphical_visualization.png
+  Plots of training & validation accuracy and loss curves.
 
-mldlbaseline_comparison.png
-Bar chart comparing Dice, precision, sensitivity, and specificity across ML/DL baselines.
+ •mldlbaseline_comparison.png
+  Bar chart comparing Dice, precision, sensitivity, and specificity across ML/DL baselines.
 
-layer_summary.pdf
-Detailed table of every layer (type, output shape, parameter count).
+ •layer_summary.pdf
+  Detailed table of every layer (type, output shape, parameter count).
 
-README.md
-This file—project description, setup instructions, and usage.
+ •README.md
+  This file—project description, setup instructions, and usage.
 
-requirements.txt
-List of Python dependencies (TensorFlow, Keras, NumPy, nibabel, etc.).
+ •requirements.txt
+  List of Python dependencies (TensorFlow, Keras, NumPy, nibabel, etc.).
 
 ---
 
@@ -54,6 +54,8 @@ List of Python dependencies (TensorFlow, Keras, NumPy, nibabel, etc.).
 
 - **BraTS 2020** (4 GB): Multi‑modal MRI scans (FLAIR, T1, T1ce, T2) + segmentation masks.  
 - Download and unzip into a local `data/` folder; see preprocessing steps in the notebook.
+
+![image](https://github.com/user-attachments/assets/0ce71c90-0ec4-4224-aea8-8c7cad6384c5)
 
 ---
 Try out the complete pipeline on Kaggle:
